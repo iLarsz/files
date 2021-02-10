@@ -1,0 +1,17 @@
+header {
+    color : red;
+}
+p {
+    font-size: 15pt;
+}
+h6 {
+    color : red;
+ }
+ div.AR {
+     width : 25%;
+     display : block;
+     float:left;
+     margin:10px;
+     border: 10px solid black;
+     padding: 10px;
+ }

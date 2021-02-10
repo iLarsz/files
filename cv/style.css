@@ -1,0 +1,53 @@
+header {
+Font-size: 35pt;
+color : white
+}
+p { 
+    font-size: 3pt;
+}
+
+h1 {
+    color: white;
+}
+
+body {
+    background-color: black;
+    color: white;
+  }
+div.AR {
+    width : 40%;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: middle;
+    margin: 10px;
+    padding: 20px;
+    font-size: 17pt;
+}
+div.p1 {
+    width : 40%;
+    color : whitesmoke
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: middle;
+    float: right;
+    margin: 10px;
+    border: 1px rgb(122, 122, 122);
+    font-size: 17pt;
+}
+div.a1 {
+    width : 60%;
+    Font-size : 40pt;
+    color : grey
+    display : right;
+    float: right;
+    margin: 10px;
+    padding: 10px;
+}
+div.p2 {
+    width : 100%;
+    color : whitesmoke
+    display : right;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
