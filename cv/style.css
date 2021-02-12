@@ -3,36 +3,40 @@ Font-size: 35pt;
 color : white
 }
 p { 
-    font-size: 3pt;
+    font-size: 2pt;
 }
 
 h1 {
     color: white;
 }
 
+
+body {background-color: black;}
+
 body {
-    background-color: black;
     color: white;
   }
 div.AR {
     width : 40%;
-    display: inline-block;
-    vertical-align: bottom;
-    text-align: middle;
+    display : block;
+    float: middle;
     margin: 10px;
-    padding: 20px;
+    border: 5px rgb(122, 122, 122);
+    padding: 10px;
     font-size: 17pt;
 }
 div.p1 {
     width : 40%;
     color : whitesmoke
-    display: inline-block;
-    vertical-align: bottom;
-    text-align: middle;
-    float: right;
+    display : right;
+    float: left;
     margin: 10px;
     border: 1px rgb(122, 122, 122);
     font-size: 17pt;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
 div.a1 {
     width : 60%;
@@ -50,4 +54,5 @@ div.p2 {
     float: left;
     margin: 10px;
     padding: 10px;
+    Color : grey
 }
